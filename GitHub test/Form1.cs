@@ -16,5 +16,10 @@ namespace GitHub_test
         {
             InitializeComponent();
         }
+        private void KaszkietZrob()
+        {
+            string CzyToBędzie;
+            string KLtoBędzie;
+        }
     }
 }
