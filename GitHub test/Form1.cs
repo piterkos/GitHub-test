@@ -21,6 +21,7 @@ namespace GitHub_test
             string CzyToBędzie;
             string KLtoBędzie;
             string future;
+            string próbaRebase;
         }
     }
 }
