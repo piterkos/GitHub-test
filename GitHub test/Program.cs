@@ -18,5 +18,9 @@ namespace GitHub_test
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        private static void nowyWpisZkonfliktem()
+        {
+            string pajac = "pajac";
+        }
     }
 }

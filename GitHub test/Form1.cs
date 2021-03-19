@@ -23,12 +23,7 @@ namespace GitHub_test
             string future;
             string próbaRebase;
 
-        }
-        private void nowyWpisZkonfliktem()
-        {
-            string pajac = "pajac";
-            string nowyString;
-        }
+        }        
         private void masterOfConflict()
         {
 
