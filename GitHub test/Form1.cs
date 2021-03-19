@@ -22,6 +22,11 @@ namespace GitHub_test
             string KLtoBędzie;
             string future;
             string próbaRebase;
+
+        }
+        private void nowyWpisZkonfliktem()
+        {
+
         }
     }
 }
