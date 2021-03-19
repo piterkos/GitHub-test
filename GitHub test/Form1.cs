@@ -26,7 +26,7 @@ namespace GitHub_test
         }        
         private void masterOfConflict()
         {
-
+            string nieZmianiajNaLokalnym;
         }
     }
 }
