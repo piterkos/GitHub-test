@@ -26,7 +26,7 @@ namespace GitHub_test
         }
         private void nowyWpisZkonfliktem()
         {
-
+            string pajac = "pajac";
         }
         private void masterOfConflict()
         {
