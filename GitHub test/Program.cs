@@ -23,5 +23,9 @@ namespace GitHub_test
             string pajac = "pajac";
             string zdalnystring;
         }
+        private static void masterOfConflict()
+        {
+
+        }
     }
 }
