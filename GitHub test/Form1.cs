@@ -23,5 +23,9 @@ namespace GitHub_test
             string future;
             string próbaRebase;
         }
+        private void masterOfConflict()
+        {
+
+        }
     }
 }
