@@ -21,6 +21,7 @@ namespace GitHub_test
         private static void nowyWpisZkonfliktem()
         {
             string pajac = "pajac";
+            string zdalnystring;
         }
     }
 }
